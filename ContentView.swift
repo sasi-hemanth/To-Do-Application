@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Class1
+//  To-Do Application
 //
 //  Created by Sasi Hemanth Siripurapu on 2024-03-31.
 
